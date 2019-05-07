@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Wendy One', sans-serif;
+    color: orange;
+}
+.hello {
+    font-family: 'Days One', sans-serif;
+    color: red;
+}
+
+.puto {
+    font-family: 'Artifika', serif;
+    color: purple;
+}
+
+.hi {
+    font-family: 'Indie Flower', cursive;
+    color:green;
+}
+.answer{
+ color: yellow;  
+}
+body {
+  background: url("https://ak6.picdn.net/shutterstock/videos/33849256/thumb/1.jpg") no-repeat center center fixed;
+  
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
